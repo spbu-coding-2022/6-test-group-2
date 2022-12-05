@@ -16,3 +16,6 @@
 [submodule "6-Kuarni"]
 	path = 6-Kuarni
 	url = git@github.com:spbu-coding-2022/6-Kuarni.git
+[submodule "6-Parzival-05"]
+	path = 6-Parzival-05
+	url = git@github.com:spbu-coding-2022/6-Parzival-05.git
