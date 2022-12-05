@@ -28,3 +28,6 @@
 [submodule "6-Urtix"]
 	path = 6-Urtix
 	url = git@github.com:spbu-coding-2022/6-Urtix.git
+[submodule "6-ancavar"]
+	path = 6-ancavar
+	url = git@github.com:spbu-coding-2022/6-ancavar.git
