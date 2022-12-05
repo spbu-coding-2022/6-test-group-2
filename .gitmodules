@@ -25,3 +25,6 @@
 [submodule "6-Stemble-dev"]
 	path = 6-Stemble-dev
 	url = git@github.com:spbu-coding-2022/6-Stemble-dev.git
+[submodule "6-Urtix"]
+	path = 6-Urtix
+	url = git@github.com:spbu-coding-2022/6-Urtix.git
