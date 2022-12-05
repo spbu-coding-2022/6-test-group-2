@@ -13,3 +13,6 @@
 [submodule "6-ArtyomProkopets"]
 	path = 6-ArtyomProkopets
 	url = git@github.com:spbu-coding-2022/6-ArtyomProkopets.git
+[submodule "6-Kuarni"]
+	path = 6-Kuarni
+	url = git@github.com:spbu-coding-2022/6-Kuarni.git
