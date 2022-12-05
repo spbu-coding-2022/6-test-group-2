@@ -31,3 +31,6 @@
 [submodule "6-ancavar"]
 	path = 6-ancavar
 	url = git@github.com:spbu-coding-2022/6-ancavar.git
+[submodule "6-juliakononov"]
+	path = 6-juliakononov
+	url = git@github.com:spbu-coding-2022/6-juliakononov.git
