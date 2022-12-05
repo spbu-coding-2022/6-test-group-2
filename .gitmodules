@@ -46,3 +46,6 @@
 [submodule "6-therain7"]
 	path = 6-therain7
 	url = git@github.com:spbu-coding-2022/6-therain7.git
+[submodule "6-wokuparalyzed"]
+	path = 6-wokuparalyzed
+	url = git@github.com:spbu-coding-2022/6-wokuparalyzed.git
