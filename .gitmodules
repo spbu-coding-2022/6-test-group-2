@@ -67,3 +67,6 @@
 [submodule "6-GryaznovAS"]
 	path = 6-GryaznovAS
 	url = git@github.com:spbu-coding-2022/6-GryaznovAS.git
+[submodule "6-ItIsMrLaG"]
+	path = 6-ItIsMrLaG
+	url = git@github.com:spbu-coding-2022/6-ItIsMrLaG.git
