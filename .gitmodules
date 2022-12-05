@@ -64,3 +64,6 @@
 [submodule "6-Alabs1"]
 	path = 6-Alabs1
 	url = git@github.com:spbu-coding-2022/6-Alabs1.git
+[submodule "6-GryaznovAS"]
+	path = 6-GryaznovAS
+	url = git@github.com:spbu-coding-2022/6-GryaznovAS.git
