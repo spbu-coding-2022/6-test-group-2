@@ -55,3 +55,6 @@
 [submodule "6-SurfaceYellowDuck"]
 	path = 6-SurfaceYellowDuck
 	url = git@github.com:spbu-coding-2022/6-SurfaceYellowDuck.git
+[submodule "6-gladiuswq"]
+	path = 6-gladiuswq
+	url = git@github.com:spbu-coding-2022/6-gladiuswq.git
