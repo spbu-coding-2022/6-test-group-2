@@ -61,3 +61,6 @@
 [submodule "6-ALanovaya"]
 	path = 6-ALanovaya
 	url = git@github.com:spbu-coding-2022/6-ALanovaya.git
+[submodule "6-Alabs1"]
+	path = 6-Alabs1
+	url = git@github.com:spbu-coding-2022/6-Alabs1.git
