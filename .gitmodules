@@ -97,3 +97,6 @@
 [submodule "6-VsevolodPotylkin"]
 	path = 6-VsevolodPotylkin
 	url = git@github.com:spbu-coding-2022/6-VsevolodPotylkin.git
+[submodule "6-d-zaytsev"]
+	path = 6-d-zaytsev
+	url = git@github.com:spbu-coding-2022/6-d-zaytsev.git
